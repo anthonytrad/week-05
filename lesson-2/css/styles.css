@@ -1,0 +1,91 @@
+.clear {
+	clear: both;
+}
+
+.float-right {
+	float: right;
+}
+
+body {
+	background-image: url("../images/soft-grid.gif");
+}
+
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+	background-color: #fff;	
+}
+
+header {
+	background: url("../images/header.jpg") no-repeat;
+	height: 180px;
+	position: relative;
+}
+
+h1.logo {
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+nav, footer {
+	background-color: #8fa63c;
+}
+
+nav ul {
+	padding: 20px 0 16px;
+	margin: 0 40px 0 0;
+	float: right;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 24px;
+}
+
+nav ul li:last-child {
+	margin-right: 0;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #000;
+	font-size: 18px;
+}
+
+nav ul li a:hover {
+	color: #fff;
+}
+
+section.main-content {
+	padding: 30px 40px;
+}
+
+section .left-content {
+	width: 430px;
+	float: left;
+}
+
+section.main-content h2 {
+	margin-top: 0;
+}
+
+section.main-content ol li {
+	margin-bottom: 14px;
+}
+
+footer {
+	color: #fff;
+	padding: 10px 0 10px 16px;
+	font-size: 12px;
+}
+
+footer a {
+	color: #fff;
+}
+
+
+

@@ -1,0 +1,37 @@
+#accordion h2, #accordion p {
+	margin: 0;
+}
+
+.accordion-toggle {
+	cursor: pointer;
+}
+
+.accordion-content {
+	display: none;
+	background-color: #d6effe;
+	padding: 12px 0 12px 20px;
+	border-bottom: 1px solid #000; 
+}
+
+.accordion-content p {
+	padding-bottom: 10px;
+}
+
+.accordion-content p:last-child {
+	padding-bottom: 0;
+}
+
+.open {
+	display: block;
+}
+
+#accordion h2 {
+	color: #fff;
+	background-color: #736e9f;
+	padding: 12px 0 12px 20px;
+	border-bottom: 1px solid #000;
+}
+
+#accordion h2:first-child { 
+	border-top: 1px solid #000;
+}

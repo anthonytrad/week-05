@@ -1,0 +1,14 @@
+CSS Menus - http://cssmenumaker.com/blog/6-exceptional-menu-bar-navigation-designs
+
+CSS Transitions & Animations - http://learn.shayhowe.com/advanced-html-css/transitions-animations/#shorthand-transitions
+
+8 Simple transitions - http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
+
+22 Animation Examples - http://www.creativebloq.com/css3/animation-with-css3-712437
+CSS Transition Spec - https://www.w3.org/TR/css3-transitions/#properties-from-css-
+
+Flex Slider - http://flexslider.woothemes.com/
+
+jQuery
+Show and hide - http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show
+Toggle - http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_eff_toggle
